@@ -18,6 +18,21 @@
             { "name": "2530 Diamond", "price": "1610", "diamond": "💎 2530" },
             { "name": "5060 Diamond", "price": "3220", "diamond": "💎 5060" },
             { "name": "10120 Diamond", "price": "6440", "diamond": "💎 10120" }
+            { "name": "Weekly", "price": "158", "diamond": "📅" },
+            { "name": "Monthly", "price": "790", "diamond": "📅" },
+            { "name": "25 Diamond", "price": "20", "diamond": "💎 25" },
+            { "name": "50 Diamond", "price": "35", "diamond": "💎 50" },
+            { "name": "115 Diamond", "price": "79", "diamond": "💎 115" },
+            { "name": "240 Diamond", "price": "158", "diamond": "💎 240" },
+            { "name": "355 Diamond", "price": "237", "diamond": "💎 355" },
+            { "name": "480 Diamond", "price": "316", "diamond": "💎 480" },
+            { "name": "610 Diamond", "price": "400", "diamond": "💎 610" },
+            { "name": "850 Diamond", "price": "558", "diamond": "💎 850" },
+            { "name": "1240 Diamond", "price": "800", "diamond": "💎 1240" },
+            { "name": "1850 Diamond", "price": "1200", "diamond": "💎 1850" },
+            { "name": "2530 Diamond", "price": "1610", "diamond": "💎 2530" },
+            { "name": "5060 Diamond", "price": "3220", "diamond": "💎 5060" },
+            { "name": "10120 Diamond", "price": "6440", "diamond": "💎 10120" }
         ]
     },
     {
@@ -41,6 +56,15 @@
             { "name": "Voucher 200", "price": "205", "diamond": "🎫" },
             { "name": "Voucher 500", "price": "505", "diamond": "🎫" },
             { "name": "Voucher 1000", "price": "1005", "diamond": "🎫" }
+        ]
+    },
+    {
+        "name": "LEVEL UP",
+        "image": "https://uidtopup.com/_next/image?url=https%3A%2F%2Fimg.t4b.top%2FFreeFireLevelUpPassBangladeshbyUIDTOPUP-1747933995206-1783881106958.webp&w=2048&q=75",
+        "products": [
+            { "name": "Level 10-20", "price": "200", "diamond": "⬆️" },
+            { "name": "Level 20-30", "price": "350", "diamond": "⬆️" },
+            { "name": "Level 30-40", "price": "500", "diamond": "⬆️" }
         ]
     },
     {
